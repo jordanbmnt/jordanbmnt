@@ -6,3 +6,13 @@
 - 📫 How to reach me:
 - Instagram: soy_jimb
 - Email: jordanbmnt@gmail.com
+
+<div align="center">
+
+This wiki is powered by [GitHub] and [Microsoft Bing].
+
+© 2023 JordanBmnt. All rights reserved.
+
+<a href="mailto:jordanbmnt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/soy_jimb-Web%20Developer-blue?style=for-the-badge&logo=github” alt=“soy_jimb Web Developer Badge"></a>
+
+</div>
