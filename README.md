@@ -1,6 +1,6 @@
 <div align="center">
 
-![Top Langs](https://readme-typing-svg.herokuapp.com?font=Roboto&color=e5289e&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola+soy_jimb;Or+Jordan;+.+.+.+;I+am+a+Full-Stack+Developer,;I+am+currently+doing+an+internship+with+Umuzi.org)
+![Top Langs](https://readme-typing-svg.herokuapp.com?font=permanent+marker&color=e5289e&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola+soy_jimb;Or+Jordan;+.+.+.+;I+am+a+Full-Stack+Developer,;I+am+currently+doing+an+internship+with+Umuzi.org)
 
 ![Jordan Beaumont's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=jordanbmnt&theme=synthwave&hide_border=true)
 
