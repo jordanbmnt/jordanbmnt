@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![Jordan Beaumont's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanbmnt&show_icons=true&theme=radical)
+![Jordan Beaumont's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanbmnt&show=prs_merged_percentage&hide=stars,issues,contribs&show_icons=true&include_all_commits=true&rank_icon=github&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanbmnt&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
