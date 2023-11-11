@@ -7,10 +7,6 @@
 ![Jordan Beaumont's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=jordanbmnt&theme=synthwave&hide_border=true)
 ![Jordan Beaumont's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanbmnt&show=prs_merged_percentage&hide=stars&show_icons=true&include_all_commits=true&rank_icon=github&theme=synthwave)
 
-This wiki is powered by [GitHub] and [Microsoft Bing].
-
-© 2023 JordanBmnt. All rights reserved.
-
 <br/>
 
 <div align=center>
@@ -19,6 +15,13 @@ This wiki is powered by [GitHub] and [Microsoft Bing].
         <a href="https://t.me/soy_jimb"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
     </div>
   
-  <a href="mailto:jordanbmnt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/soy_jimb-Web%20Developer-blue?style=for-the-badge&logo=github” alt=“soy_jimb Web Developer Badge"></a>
+<a href="mailto:jordanbmnt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/soy_jimb-Web%20Developer-e5289e?style=for-the-badge&logo=gmail" alt="soy_jimb Web Developer Badge"></a>
+
+
+This wiki is powered by [GitHub] and [Microsoft Bing].
+
+© 2023 JordanBmnt. All rights reserved.
+
+
 
 </div>
