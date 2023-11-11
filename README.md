@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![Jordan Beaumont Github Stats](https://github-readme-stats.vercel.app/api?username=jordanbmnt&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Jordan Beaumont's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanbmnt&show_icons=true&theme=radical)
 
 This wiki is powered by [GitHub] and [Microsoft Bing].
 
