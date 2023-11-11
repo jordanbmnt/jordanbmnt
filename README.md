@@ -11,6 +11,8 @@
 
 ![Jordan Beaumont's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanbmnt&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanbmnt&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 This wiki is powered by [GitHub] and [Microsoft Bing].
 
 © 2023 JordanBmnt. All rights reserved.
