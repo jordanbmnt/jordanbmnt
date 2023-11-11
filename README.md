@@ -10,7 +10,7 @@
 <div align="center">
 
 ![Jordan Beaumont's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanbmnt&show_icons=true&theme=radical)
-[![Jordan Beaumont's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordanbmnt)](https://github.com/anuraghazra/github-readme-stats)
+[![Jordan Beaumont's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordanbmnt)]=
 
 This wiki is powered by [GitHub] and [Microsoft Bing].
 
