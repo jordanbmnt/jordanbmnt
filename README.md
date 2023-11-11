@@ -1,10 +1,11 @@
 <div align="center">
 
 ![Top Langs](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&color=e5289e&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola+soy_jimb;Or+Jordan;+.+.+.+;I+am+a+Full-Stack+Developer,;I+am+currently+doing+an+internship+with+Umuzi.org)
+<hr/>
+<br/>
 
 ![Jordan Beaumont's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=jordanbmnt&theme=synthwave&hide_border=true)
-
-![Jordan Beaumont's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanbmnt&show=prs_merged_percentage&hide=stars,issues,contribs&show_icons=true&include_all_commits=true&rank_icon=github&theme=synthwave)
+![Jordan Beaumont's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanbmnt&show=prs_merged_percentage&hide=stars&show_icons=true&include_all_commits=true&rank_icon=github&theme=synthwave)
 
 This wiki is powered by [GitHub] and [Microsoft Bing].
 
