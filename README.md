@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @jordanbmnt
-- 👀 I’m interested in exploring Web Dev and learning new ways of design and application
-- 🌱 I’m currently learning JavaScript libraries such as React 
-- 💞️ I’m looking to collaborate on JavaScript Projects
-- 🧐 More projecst at https://github.com/jordanb-ITvarsity
-- 📫 How to reach me:
-- Instagram: soy_jimb
-- Email: jordanbmnt@gmail.com
+![Intro](https://readme-typing-svg.herokuapp.com?font=Roboto&color=e5289e&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola+soy_jimb;Or+Jordan;+.+.+.+;I+am+a+Full-Stack+Developer,;I+am+currently+doing+an+internship+with+Umuzi.org)
 
 <div align="center">
 
