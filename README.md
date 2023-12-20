@@ -21,6 +21,6 @@
 
 This wiki is powered by [GitHub] and [Microsoft Bing].
 
-© 2023 JordanBmnt. All rights reserved.
+© 2023 JordanBmnt | soy_jimb . All rights reserved.
 
 </div>
