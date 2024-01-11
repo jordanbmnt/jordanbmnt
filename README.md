@@ -2,6 +2,10 @@
 
 ![Top Langs](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&color=e5289e&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola+soy_jimb;Or+Jordan;+.+.+.+;I+am+a+Full-Stack+Developer,;I+am+currently+doing+an+internship+with+Umuzi.org)
 <hr/>
+<br/>
+
+
+![Jordan Beaumont's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=jordanbmnt&theme=synthwave) ![Jordan Beaumont's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanbmnt&show=prs_merged_percentage&hide=stars&show_icons=true&rank_icon=github&theme=synthwave)
 
 <br/>
 <hr/>
