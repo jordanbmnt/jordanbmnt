@@ -4,7 +4,7 @@
 <hr/>
 <br/>
 
-![Jordan Beaumont's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=jordanbmnt&theme=synthwave) ![Jordan Beaumont's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanbmnt&show=prs_merged_percentage&hide=stars&show_icons=true&rank_icon=github&theme=synthwave)
+
 
 <br/>
 <hr/>
